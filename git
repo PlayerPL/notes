@@ -1,0 +1,1 @@
+git push <remote name, e.g. origin> <local branch name>:<remote branch name>
